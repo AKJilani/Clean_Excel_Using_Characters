@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Excel temp files
+~$*.xlsx
+
+# Logs
+*.log
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Jupyter (if used later)
+.ipynb_checkpoints/
+
+# Byte-compiled / optimized files
+*.pyo
+
+# Backup files
+*.bak
+*.tmp
